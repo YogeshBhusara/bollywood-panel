@@ -1,0 +1,4 @@
+interface:
+  display_name: "Bollywood Panel"
+  short_description: "Vibrant Indian Bollywood restage"
+  default_prompt: "Use $bollywood-panel to turn my photograph into an Indian Bollywood-style picture: vibrant in color and chaos but fun."
