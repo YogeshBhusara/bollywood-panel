@@ -6,6 +6,18 @@ The source person stays themselves. Wardrobe, set, lighting, extras, and colour 
 
 Inspired by the numbered XXD Panel soldier-skill pattern (one locked aesthetic brief, isolated sources, four delivery modes). This project is original work and is not affiliated with XXD.
 
+## Sample: input → output
+
+One photograph in, one Bollywood restage out. The boy's face, laugh, and pose stay recognisable; wardrobe, set, colour, and chaos become a masala song sequence.
+
+| Input | Output |
+|---|---|
+| ![Input photograph](assets/examples/sample-input.jpg) | ![Bollywood restage](assets/examples/sample-output.png) |
+
+**Run settings:** `design-only` · `3:4` · `prompt` text · `en-IN`
+
+Input photo by [Jimmy Chang](https://unsplash.com/photos/XAF3038PN44) on Unsplash.
+
 ## Install
 
 ```bash
